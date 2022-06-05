@@ -15,3 +15,8 @@ code {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap');
+
+.vastShadow {
+  font-family: 'Vast Shadow', cursive;
+}
