@@ -10,6 +10,7 @@ import backgroundImage from '../../assests/images/background.png';
 import Fade from 'react-reveal/Fade';
 import Services from './Services';
 import RecentWorks from './RecentWorks';
+import Reviews from './Reviews';
 const Home = () => {
     return (
         <div>
@@ -78,6 +79,7 @@ const Home = () => {
             </section>
             <Services></Services>
             <RecentWorks></RecentWorks>
+            <Reviews></Reviews>
         </div>
     );
 };
