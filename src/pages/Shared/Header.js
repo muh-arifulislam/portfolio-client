@@ -34,7 +34,7 @@ const Header = () => {
                             <li><CustomLink to='/about'>About Me</CustomLink></li>
                         </ul>
                     </div>
-                    <a href='/' className="btn btn-ghost normal-case text-xl">Muh. Arif</a>
+                    <h2 className="btn btn-ghost normal-case text-xl sailFont">Muh. Ariful Islam</h2>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal p-0">
